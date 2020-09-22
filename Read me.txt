@@ -1,0 +1,20 @@
+BJ's Basic Calender:
+
+NOTE: for newbies.
+
+1: You must have msinet.ocx to start with.
+1-1: msinet.ocx should be found in your Windows\System folder or your Windows\System32 folder. If you don't have it, can E-Mail it to you.
+
+2: Open ShellLnk.vbp and change the properties for cShellLnk Instances to 5 and make ShellLnk.dll then save and Exit. If you don't have my altered version, go to unsupported on msdn CD 1. It should still work. I haven't tested it.
+
+3: Open BJ's Basic Calender.vbp and make BJ's Basic Calender.exe and then save and Exit.
+
+4: BJ's Basic Calender should now run.
+
+Thanks BJ.
+
+Any Questions, run BJ's Basic Calender and click on E-Mail to E-Mail me.
+anyway, my E-Mail address is: 
+bryce3@bigpond.com
+
+If you don't have msinet.ocx, E-Mail me and put, (Can you E-Mail me msinet.ocx)  as you message.
